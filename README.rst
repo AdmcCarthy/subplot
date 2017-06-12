@@ -2,7 +2,9 @@
 subplot - Subsurface plot libary
 ================================
 
-Contact Adam McCarthy a.mccarthy.uk@googlemail.com
+subplot is a Python module for making great geoscience visuals.
+
+Author Adam McCarthy a.mccarthy.uk@googlemail.com
 
 --------
 Overview
